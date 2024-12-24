@@ -1,0 +1,3 @@
+interface Meowable {
+    void meow();
+}
